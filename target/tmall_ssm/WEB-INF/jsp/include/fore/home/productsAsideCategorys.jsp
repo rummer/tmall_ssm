@@ -33,8 +33,9 @@ $(function(){
 							</c:forEach>
 						</a>
 					</c:if>
+					<div class="seperator"></div>
 				</c:forEach>
-				<div class="seperator"></div>
+
 			</div>		
 		</c:forEach>
 	</div>			
